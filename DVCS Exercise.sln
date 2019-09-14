@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS_Website", "DVCS_Website\DVCS_Website.csproj", "{B9641E20-4C26-49F4-83EB-0CA9EBDF4074}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9641E20-4C26-49F4-83EB-0CA9EBDF4074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9641E20-4C26-49F4-83EB-0CA9EBDF4074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9641E20-4C26-49F4-83EB-0CA9EBDF4074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9641E20-4C26-49F4-83EB-0CA9EBDF4074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
